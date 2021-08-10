@@ -1,0 +1,3 @@
+[submodule "NetworkModel_Toolbox"]
+	path = NetworkModel_Toolbox
+	url = https://github.com/matteomancini/NetworkModel_Toolbox.git
