@@ -5,7 +5,7 @@ This repository contains the code to reproduce the results presented in the pape
 The figures and statistics reported in the paper can be replicated using the following notebooks:
 
 - [group analysis](group_analysis.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/dissecting-conduction-delays/blob/main/group_analysis.ipynb)
-- [group analysis (with higher-resolution parcellation)](group_analysis_hires_parc.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/dissecting-conduction-delays/blob/main/group_analysis_highres_parc.ipynb)
+- [group analysis (with higher-resolution parcellation)](group_analysis_hires_parc.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/dissecting-conduction-delays/blob/main/group_analysis_hires_parc.ipynb)
 - [single-subject analysis](single_subject_analysis.ipynb) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteomancini/dissecting-conduction-delays/blob/main/single_subject_analysis.ipynb)
 
 The Kuramoto simulations can be reproduced using [this MATLAB script](run_kuramoto.m), that relies on a [modified version](https://github.com/matteomancini/NetworkModel_Toolbox) of the [NetworkModel Toolbox](https://github.com/juanitacabral/NetworkModel_Toolbox) (already present in the repo as a submodule).
